@@ -1,0 +1,28 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+ul{
+  box-sizing: border-box;
+  list-style: none;
+display: flex;
+position: fixed;
+width: 100%;
+bottom: 0px;
+left: 0px;
+right:0px;
+height: 50px;
+line-height: 50px;
+}
+
+ul li {
+flex: 1;
+text-align: center;
+background: #fff;
+
+}
+
+.txt{
+  color: red;
+
+}
