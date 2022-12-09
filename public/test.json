@@ -1,0 +1,216 @@
+{
+  "status": 0,
+  "data": {
+    "films": [
+      {
+        "filmId": 6166,
+        "name": "航海王：红发歌姬",
+        "poster": "https://pic.maizuo.com/usr/movie/1f25dd6943762288dfd84b961c98f478.jpg",
+        "actors": [
+          {
+            "name": "谷口悟朗",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/cefebea295b04125d764edc63d66fbab.jpeg"
+          },
+          {
+            "name": "田中真弓",
+            "role": "蒙奇·D·路飞",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/4f6aa3e40948c476b5dd27923d966e66.jpg"
+          },
+          {
+            "name": "中井和哉",
+            "role": "罗罗诺亚·索",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/d727837a1a65cf02d1734674f86a1051.jpg"
+          },
+          {
+            "name": "冈村明美",
+            "role": "奈美",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/1d2c7e8ee9d9b526e3a613ed8353da32.jpg"
+          },
+          {
+            "name": "山口胜平",
+            "role": "撒谎布",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/71dc2711ab2417422de03bb14423760a.jpg"
+          }
+        ],
+        "director": "谷口悟朗",
+        "category": "动画",
+        "synopsis": "令全世界为之疯狂的歌姬·乌塔，她的身世成谜，歌声却被誉为“来自别的次元”。而这次，她将举办演唱会并第一次露出庐山真面目。为了欣赏她的歌声，路飞率领的草帽一伙，以及世界各地的歌迷都汇聚在会场之中。全世界备受瞩目的歌声即将在此回荡。而故事就在乌塔是“杰克斯的女儿”这一令人震惊的发现中拉开帷幕！",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "日本",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1669852800,
+        "timeType": 3,
+        "runtime": 115,
+        "grade": "7.5",
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 6165,
+        "name": "阿凡达：水之道",
+        "poster": "https://pic.maizuo.com/usr/movie/fceeb41a1660d097d02fbcbda3191d8f.jpg",
+        "actors": [
+          {
+            "name": "詹姆斯·卡梅隆",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/4da6b697aabe63657edd65aa1b660a04.jpg"
+          },
+          {
+            "name": "萨姆·沃辛顿",
+            "role": "杰克·萨利 Jake Sully",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/c0802754994c52632632fa14a9d8b2c6.jpg"
+          },
+          {
+            "name": "佐伊·索尔达娜",
+            "role": "奈蒂莉 Neytiri",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/49c7212edfcbec66dd57f03f8b290bcc.jpg"
+          },
+          {
+            "name": "西格妮·韦弗",
+            "role": "格蕾丝·奥格斯汀 Dr. Grace Augustin",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/c46f06dd60095aa9c5eb60492ae5fe3d.jpg"
+          },
+          {
+            "name": "史蒂芬·朗",
+            "role": "迈尔斯·夸奇上校 Miles Quaritch",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/e3ce341c0166a7a7762f111bac80e161.jpg"
+          }
+        ],
+        "director": "詹姆斯·卡梅隆",
+        "category": "动作|冒险|科幻",
+        "synopsis": "《阿凡达：水之道》的剧情承接自第一部的5年之后。曾经的地球残疾军人杰克·萨利，如今已经是潘多拉星球纳美族一方部族的族长，并且与爱妻娜塔莉共同育有一对可爱的儿女，日子过得平淡而充实。然而某天，有个部族的兄弟在海岸附近巡逻时遭到利器割喉身亡。通过现场勘查，以及作为前海军陆战队员的敏锐直觉，杰克判断已经有人类的阿凡达混入了部落……",
+        "filmType": {
+          "name": "3D",
+          "value": 2
+        },
+        "nation": "美国",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1671148800,
+        "timeType": 3,
+        "runtime": 190,
+        "item": {
+          "name": "3D",
+          "type": 2
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 6150,
+        "name": "名侦探柯南：万圣节的新娘",
+        "poster": "https://pic.maizuo.com/usr/movie/2da2cc429af2610a0006d066db8384a3.jpg",
+        "actors": [
+          {
+            "name": "高山南",
+            "role": "江户川柯南",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/ef58c1fa37cef5adc1f297f693c29938.jpg"
+          },
+          {
+            "name": "山崎和佳奈",
+            "role": "毛利兰",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/e06ed1218db91f5ca9b1c8ab014d70e4.jpg"
+          },
+          {
+            "name": "小山力也",
+            "role": "毛利小五郎",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/b5cb1cf254796dfb7e8f92c4a39aa795.jpg"
+          },
+          {
+            "name": "三木真一郎",
+            "role": "萩原研二",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/8f15fad59edff247edef7f753e702b40.jpg"
+          },
+          {
+            "name": "古谷彻",
+            "role": "安室透 / 降谷零",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/9628758015b7686a111463b490a68e41.jpg"
+          }
+        ],
+        "director": "满仲劝",
+        "category": "动作|动画|悬疑",
+        "synopsis": "涩谷的万圣节狂欢庆典竟然变成了一场可怕的灾难！柯南和安室透深陷危机，佐藤刑警和高木刑警的婚礼现场惊现炸弹客！一桩关于三年前警校五人组的迷案即将揭开…",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "日本",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1668729600,
+        "timeType": 3,
+        "runtime": 110,
+        "grade": "7.6",
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      },
+      {
+        "filmId": 6139,
+        "name": "扫黑行动",
+        "poster": "https://pic.maizuo.com/usr/movie/2079ee083f7caaeac01d270b8fc5ab3b.png",
+        "actors": [
+          {
+            "name": "林德禄",
+            "role": "导演",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/7ab6f4afdcf5a99d926977ca27577cf1.jpg"
+          },
+          {
+            "name": "周一围",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/57609a33435cb019dedb747b1f37546b.jpg"
+          },
+          {
+            "name": "秦海璐",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/71113cd390f03b38b1a9647d1ee54852.jpg"
+          },
+          {
+            "name": "张智霖",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/8ac5d5d1c5b227515f55a0ecf365f87a.jpg"
+          },
+          {
+            "name": "王劲松",
+            "role": "演员",
+            "avatarAddress": "https://pic.maizuo.com/usr/movie/f722c06c42dc853cb70eb9dfb77f9e44.jpg"
+          }
+        ],
+        "director": "林德禄",
+        "category": "剧情|动作|犯罪",
+        "synopsis": "湾海市发生涉黑案件都指向海创集团，公安扫黑大队长彭锐在常务副局长杜国学支持下，发现临退休的局长黎强可疑，谁知牵扯出十年前彭锐父亲被害一案，企业家、官员、主持人等错综复杂的关系博弈背后，“保护伞”和金融阴谋浮出水面……",
+        "filmType": {
+          "name": "2D",
+          "value": 1
+        },
+        "nation": "中国大陆",
+        "language": "",
+        "videoId": "",
+        "premiereAt": 1668124800,
+        "timeType": 3,
+        "runtime": 99,
+        "grade": "7.7",
+        "item": {
+          "name": "2D",
+          "type": 1
+        },
+        "isPresale": true,
+        "isSale": false
+      }
+    ],
+    "total": 36
+  },
+  "msg": "ok"
+}
