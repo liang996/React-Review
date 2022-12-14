@@ -8,6 +8,7 @@ export default class Movie extends Component {
 
   }
   componentDidMount() {
+
     axios({
       url: 'https://m.maizuo.com/gateway?cityId=110100&ticketFlag=1&k=4269783',
       methods: 'get',
